@@ -18,11 +18,3 @@ body{
     text-align: center;
     color:#1d3557 ;
 }
-#Collection{
-display: flex;
-flex-direction: row;
-justify-content: space-between;
-align-items: center;
-align-content:space-between;
-padding: 10px 100px;
-}
