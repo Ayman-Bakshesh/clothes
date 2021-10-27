@@ -5,7 +5,7 @@ body{
     background-color: #1d3557;
 }
 .nav-link {
-    color: #7f7f7f;
+    color: #afafaf;
 }
 .nav-link:hover{
     color: #1d3557;
@@ -17,4 +17,47 @@ body{
     margin-top: 5vh;
     text-align: center;
     color:#1d3557 ;
+}
+
+.featurette-heading{
+    color: #1d3557;
+}
+.lead{
+    color: #9b9b9b;
+
+}
+.imgd{
+    width: 25rem;
+    height: 25rem;
+    background-color: #1d3557;
+    background-image: url(/images/man/5.jpg);
+    background-position:center;
+    background-size: cover;
+    border-radius: 100% 100% 100% 00%;
+}
+.imgd-1{
+    width: 25rem;
+    height: 25rem;
+    background-color: #1d3557;
+    background-image: url(/images/ex-man/5.jpg);
+    background-position:center;
+    background-size: cover;
+    border-radius: 100% 00% 100% 100%;
+    
+}
+.hero1{
+    padding: 40px 0px;
+    background-color: #eeeeee;
+}
+
+.a{
+    background-color: #1d3557;
+    padding: 10px;
+
+}
+.a h3{
+    color: white;
+    font-family: 'Rubik';
+    font-weight:lighter;
+    font-size:medium;
 }
