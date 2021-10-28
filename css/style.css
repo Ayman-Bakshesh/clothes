@@ -10,7 +10,11 @@ body{
 .nav-link:hover{
     color: #1d3557;
 }
-.nav{
+.tex{
+    color: #afafaf;
+}
+
+.one{
     background-color: #f1faee;
 }
 .ht{
@@ -29,22 +33,25 @@ body{
 .imgd{
     width: 25rem;
     height: 25rem;
-    background-color: #1d3557;
     background-image: url(/images/man/5.jpg);
     background-position:center;
     background-size: cover;
     border-radius: 100% 100% 100% 00%;
+    
+
 }
+
 .imgd-1{
     width: 25rem;
     height: 25rem;
-    background-color: #1d3557;
     background-image: url(/images/ex-man/5.jpg);
     background-position:center;
     background-size: cover;
     border-radius: 100% 00% 100% 100%;
+
     
 }
+
 .hero1{
     padding: 40px 0px;
     background-color: #eeeeee;
@@ -60,4 +67,10 @@ body{
     font-family: 'Rubik';
     font-weight:lighter;
     font-size:medium;
+}
+.card-title{
+    color: #1d3557;
+}
+.foote{
+    background-color: #1d3557;
 }
