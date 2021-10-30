@@ -2,10 +2,12 @@ body{
     font-family: 'Rubik';
     overflow-x: hidden;
 }
-
+#nav1{
+    margin-top: 4rem;
+}
 .navbar{
     background-color: #1d3557;
-}
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
 .nav-link {
     color: #afafaf;
 }
@@ -15,7 +17,9 @@ body{
 .tex{
     color: #afafaf;
 }
-
+.lod{
+    width: 100px;
+}
 .one{
     background-color: #f1faee;
 }
