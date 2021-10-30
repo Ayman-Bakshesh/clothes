@@ -1,6 +1,8 @@
 body{
     font-family: 'Rubik';
+    overflow-x: hidden;
 }
+
 .navbar{
     background-color: #1d3557;
 }
@@ -33,7 +35,6 @@ body{
 .imgd{
     width: 25rem;
     height: 25rem;
-    background-image: url(/images/man/5.jpg);
     background-position:center;
     background-size: cover;
     border-radius: 100% 100% 100% 00%;
@@ -44,7 +45,6 @@ body{
 .imgd-1{
     width: 25rem;
     height: 25rem;
-    background-image: url(/images/ex-man/5.jpg);
     background-position:center;
     background-size: cover;
     border-radius: 100% 00% 100% 100%;
